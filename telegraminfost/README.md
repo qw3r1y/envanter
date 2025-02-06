@@ -1,0 +1,7 @@
+| Name | Status | Member Count | Language | Focus Area | Additional Info | Tools/Technologies Used | Open/Closed Source |
+|------|--------|--------------|----------|------------|-----------------|------------------------|-------------------|
+| [Infostealer Repo](https://github.com/infostealer-repo) | ONLINE | 1,200+ | English | Credential Harvesting, Keyloggers, Phishing | Includes open-source infostealer tools and sample code for keyloggers, credential harvesters | Python, C++ | Open Source |
+| [StealerToolkits](https://github.com/stealer-toolkits) | ONLINE | 850+ | English | Malware Reverse-Engineering, Tool Development | Focused on toolkit development, reverse-engineering malware | Python, IDA Pro | Open Source |
+| [Phishing & Info-Stealers](https://github.com/phishing-infostealers) | ONLINE | 1,500+ | English | Phishing Techniques, Infostealer Attacks | Provides insights into phishing techniques and info-stealer attack methods | PHP, JavaScript | Open Source |
+| [Infostealer Malware Collection](https://github.com/infostealer-malware) | OFFLINE | N/A | English | Malware Documentation, Family Analysis | Contains detailed documentation and analysis on known infostealer malware families | Various Malware Analysis Tools | Closed Source |
+| [Credential Harvester Tools](https://github.com/credential-harvester-tools) | ONLINE | 1,000+ | English | Credential Stealing, Educational Tools | Focused on developing and sharing credential-stealing malware for educational purposes | Python, C++ | Open Source |
