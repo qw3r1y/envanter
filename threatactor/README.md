@@ -1,0 +1,7 @@
+| Threat Actor Name | Link | Activities | Nickname | Country of Origin | Victim Type | Attack Method | Active Since | Reputation | Victim Impact |
+|-------------------|------|-----------|----------|-------------------|-------------|---------------|--------------|------------|---------------|
+| **DarkPhisher** | [Link](https://github.com/darkphisher) | Phishing, Credential Harvesting, Account Takeover | **@shadow_operator** | Russia | Individuals, Corporations | Social Engineering, Fake Websites | 2019 | High | Data Theft, Financial Loss |
+| **CryptoHacker** | [Link](https://github.com/cryptohacker) | Cryptocurrency Scams, Social Engineering, Data Theft | **@blockchain_bandit** | USA | Individuals, Crypto Investors | Phishing, Fake Investment Schemes | 2020 | Medium | Financial Loss, Reputation Damage |
+| **BotMasterX** | [Link](https://github.com/botmasterx) | Botnet Creation, DDoS Attacks, Telegram Spam Campaigns | **@ctrl_hacker** | China | Web Servers, IoT Devices | DDoS, Spam Campaigns | 2018 | High | Service Disruption |
+| **CardingKing** | [Link](https://github.com/cardingking) | Credit Card Fraud, Carding, Identity Theft | **@money_maker** | Brazil | Financial Institutions, E-commerce | Data Breach, Fraudulent Transactions | 2017 | High | Financial Loss, Identity Theft |
+| **SpywareDev** | [Link](https://github.com/spywaredev) | Malware Development, Keylogging, Spyware Distribution | **@silent_watch** | Germany | Private Individuals | Keylogging, Spyware | 2021 | Low | Privacy Violations, Data Theft |
