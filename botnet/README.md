@@ -1,0 +1,7 @@
+| Name | Status | Member Count | Language | Botnet Focus Area | Additional Info | Botnet Protocols Used | Open/Closed Source |
+|------|--------|--------------|----------|-------------------|-----------------|----------------------|-------------------|
+| [TelegramBotnetRepo](https://github.com/telegrambotnetrepo) | ONLINE | 1,500+ | English | Botnet Command and Control (C2), DDoS | Focuses on building and controlling Telegram-based botnets for various malicious activities | MTProto, HTTP | Open Source |
+| [BotnetToolKit](https://github.com/botnettoolkit) | ONLINE | 1,000+ | English | Botnet Development, Malware Distribution | Develops tools for botnet creation and malware distribution via Telegram | HTTP, WebSocket | Open Source |
+| [Telegram DDoS Botnet](https://github.com/telegram-ddos-botnet) | ONLINE | 800+ | English | DDoS, Telegram-Based C2 Channels | Focused on using Telegram as a command-and-control channel for DDoS attacks | MTProto, Webhooks | Open Source |
+| [Botnet Malware Database](https://github.com/botnet-malware-database) | OFFLINE | N/A | English | Malware Analysis, Botnet Families | Provides detailed analysis on malware and known Telegram-based botnet families | Various Malware Analysis Tools | Closed Source |
+| [Telegram Botnet Tools](https://github.com/telegram-botnet-tools) | ONLINE | 1,200+ | English | Spreading, Persistence, Control | Tools for spreading and maintaining botnet persistence through Telegram channels | HTTP, MTProto | Open Source |
